@@ -218,3 +218,54 @@
 2016-12-27 11:27:30,311 INFO - service - Matched hotkey phrase/script with prompt=False
 2016-12-27 11:27:32,071 INFO - service - Matched hotkey phrase/script with prompt=False
 2016-12-27 11:27:32,494 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 11:33:22,893 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 11:33:23,896 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 11:33:25,869 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 11:33:26,685 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 11:33:30,859 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2016-12-27 11:33:30,860 INFO - config-manager - Persisting configuration
+2016-12-27 11:33:30,860 INFO - config-manager - Backing up existing config file
+2016-12-27 11:33:30,861 INFO - config-manager - Finished persisting configuration - no errors
+2016-12-27 11:33:35,713 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 11:50:22,332 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:00:49,780 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:18:28,888 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:18:56,782 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:23:25,133 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:29:29,842 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:36:06,337 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:42:31,587 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:42:55,736 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:43:07,542 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:43:09,551 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:43:14,565 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:43:17,736 INFO - root - Displaying configuration window
+2016-12-27 13:43:24,594 INFO - root - Displaying configuration window
+2016-12-27 13:43:44,283 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:43:54,359 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:44:03,754 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:45:13,994 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:48:05,449 INFO - root - Displaying configuration window
+2016-12-27 13:48:24,472 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2016-12-27 13:48:24,472 INFO - config-manager - Persisting configuration
+2016-12-27 13:48:24,473 INFO - config-manager - Backing up existing config file
+2016-12-27 13:48:24,474 INFO - config-manager - Finished persisting configuration - no errors
+2016-12-27 13:48:25,849 INFO - root - Displaying configuration window
+2016-12-27 13:48:57,719 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:49:24,965 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2016-12-27 13:49:34,970 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:49:35,900 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:49:41,105 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:49:41,814 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:49:46,351 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:49:47,389 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:58:02,022 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2016-12-27 13:58:06,003 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:58:06,633 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:58:10,446 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:58:11,132 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:58:19,325 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:58:20,753 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:58:21,840 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:59:12,817 INFO - service - Matched hotkey phrase/script with prompt=False
+2016-12-27 13:59:13,893 INFO - service - Matched hotkey phrase/script with prompt=False

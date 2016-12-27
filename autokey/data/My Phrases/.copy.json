@@ -1,5 +1,5 @@
 {
-    "usageCount": 18, 
+    "usageCount": 20, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "copy", 
@@ -23,7 +23,7 @@
     ], 
     "showInTrayMenu": false, 
     "filter": {
-        "regex": "^((?!gnome-terminal-server || terminator).)*$", 
+        "regex": "^(?:(?!terminal|terminator).)*$", 
         "isRecursive": false
     }, 
     "grabMouse": false, 

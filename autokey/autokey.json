@@ -31,7 +31,7 @@
             100
         ], 
         "workAroundApps": ".*VirtualBox.*|krdc.Krdc", 
-        "hPanePosition": 225, 
+        "hPanePosition": 402, 
         "isFirstRun": true
     }, 
     "recordHotkey": {
