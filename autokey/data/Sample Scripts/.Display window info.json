@@ -1,0 +1,28 @@
+{
+    "usageCount": 0, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "Display window info", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": null, 
+        "modifiers": []
+    }, 
+    "grabKeyboard": false, 
+    "modes": [], 
+    "showInTrayMenu": true, 
+    "filter": {
+        "regex": null, 
+        "isRecursive": false
+    }, 
+    "grabMouse": false, 
+    "type": "script", 
+    "store": {}
+}

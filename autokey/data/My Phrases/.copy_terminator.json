@@ -1,0 +1,32 @@
+{
+    "usageCount": 0, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "copy_terminator", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "c", 
+        "modifiers": [
+            "<super>"
+        ]
+    }, 
+    "grabKeyboard": false, 
+    "modes": [
+        3
+    ], 
+    "showInTrayMenu": false, 
+    "filter": {
+        "regex": "terminator.Terminator", 
+        "isRecursive": false
+    }, 
+    "grabMouse": false, 
+    "type": "script", 
+    "store": {}
+}

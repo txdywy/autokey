@@ -1,0 +1,32 @@
+{
+    "usageCount": 0, 
+    "omitTrigger": false, 
+    "prompt": false, 
+    "description": "search", 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "hotkey": {
+        "hotKey": "f", 
+        "modifiers": [
+            "<super>"
+        ]
+    }, 
+    "grabKeyboard": false, 
+    "modes": [
+        3
+    ], 
+    "showInTrayMenu": false, 
+    "filter": {
+        "regex": null, 
+        "isRecursive": false
+    }, 
+    "grabMouse": false, 
+    "type": "script", 
+    "store": {}
+}
