@@ -277,7 +277,8 @@ class AbstractWindowFilter:
     def _should_trigger_window_title(self, windowInfo):
         r = self.get_applicable_regex()
         if r is not None:
-            return r.match(windowInfo[0])# or r.match(windowInfo[1]) 
+            return r.match(windowInfo[1])
+            #return r.match(windowInfo[0]) or r.match(windowInfo[1]) 
         else:
             return True
             
